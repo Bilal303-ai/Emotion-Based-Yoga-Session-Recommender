@@ -32,7 +32,7 @@ This project utilizes a fine-tuned **DistilHuBERT** model to classify emotions f
 - **Integration:** Deploy the application for wider usage.
 - **Customization:** Allow users to input their preferences for yoga session recommendations.
 
-#### Installation
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bilal303-ai/Emotion-Based-Yoga-Session-Recommender
