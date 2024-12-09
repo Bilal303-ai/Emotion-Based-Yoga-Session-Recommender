@@ -31,6 +31,7 @@ This model is a fine-tuned version of **DistilHuBERT** model. The model extracts
 - **Real-Time Processing:** Optimize the model for real-time emotion detection.
 - **Integration:** Deploy the application for wider usage.
 - **Customization:** Allow users to input their preferences for yoga session recommendations.
+- **Multilingual Support:** Extend the model's capabilities to support additional languages beyond English, enabling broader accessibility and application.
 
 ## Installation
 1. Clone the repository:
