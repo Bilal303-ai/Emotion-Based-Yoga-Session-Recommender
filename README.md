@@ -1,6 +1,6 @@
 # Emotion-Based-Yoga-Session-Recommender
 
-This project utilizes a fine-tuned **DistilHuBERT** model to classify emotions from audio inputs and recommend tailored yoga sessions. The application was built using Hugging Face's Transformers library and Gradio for the user interface.
+This model is a fine-tuned version of **DistilHuBERT** model to classify emotions from audio inputs and recommend tailored yoga sessions. The application was built using Hugging Face's Transformers library and Gradio for the user interface.
 
 ## Approach
 1. **Dataset:** The **Ravdess** dataset, comprising 1,440 audio files with 8 emotion labels: calm, happy, sad, angry, fearful, surprise, neutral, and disgust (merged into other labels).
