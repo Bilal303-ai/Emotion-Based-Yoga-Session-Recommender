@@ -22,7 +22,7 @@ This model is a fine-tuned version of **DistilHuBERT** model. The model extracts
     - Epochs: 7
  
 ## Results
-- **Accuracy:** 0.98 on the test dataset
+- **Accuracy:** 0.97 on the test dataset
 - **Loss:** 0.10 on the test dataset
 - **Emotion Mapping:** Each emotion is linked to a predefined yoga session in the sessions.py file.
 - 
