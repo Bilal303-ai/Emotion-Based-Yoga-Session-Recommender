@@ -13,7 +13,7 @@ This model is a fine-tuned version of **DistilHuBERT** model. The model extracts
 - **Train-Test Split:** 80% of the samples were used for training, and 20% for testing.
 
 ##  Model Architecture
-- **DistilHuBERT:** A lightweight variant of HuBERT, fine-tuned for emotion classification.
+- **DistilHuBERT:** A lightweight variant of HuBERT.
 - **Fine-Tuning Setup:**
     - Optimizer: AdamW
     - Loss Function: Cross-Entropy
