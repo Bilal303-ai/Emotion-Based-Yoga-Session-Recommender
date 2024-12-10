@@ -25,6 +25,10 @@ This model is a fine-tuned version of **DistilHuBERT** model. The model extracts
 - **Accuracy:** 0.98 on the test dataset
 - **Loss:** 0.10 on the test dataset
 - **Emotion Mapping:** Each emotion is linked to a predefined yoga session in the sessions.py file.
+- 
+  <img width="445" alt="1" src="https://github.com/user-attachments/assets/9d385e9e-d644-405c-bf00-44cbe7d94ad5"><img width="464" alt="2" src="https://github.com/user-attachments/assets/623924df-a138-4f05-a0b6-eaf0c663426d">
+
+
 
 ## Next Steps
 - **Dataset Expansion:** Incorporate additional datasets for better generalization.
